@@ -1,2 +1,2 @@
 # hello-world
-this is the beggining
+this is the beginning.
